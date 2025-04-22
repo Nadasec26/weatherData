@@ -1,0 +1,21 @@
+.header {
+    background-image: url(../images/banner.png);
+    background-size: cover;
+    min-height: 350px;
+}
+
+.navbar p {
+    font-size: 10px;
+}
+
+ul li a:hover {
+    color: #009ad8 !important;
+    border: 2px solid #009ad8;
+    border-radius: 30px;
+    padding: 5px 25px;
+}
+
+.card {
+    transform: translateY(-50%);
+    height: 100%;
+}
